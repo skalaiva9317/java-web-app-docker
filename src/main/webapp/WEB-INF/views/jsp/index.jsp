@@ -50,7 +50,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Thanks for visiting</p>
 	</footer>
 </div>
 
