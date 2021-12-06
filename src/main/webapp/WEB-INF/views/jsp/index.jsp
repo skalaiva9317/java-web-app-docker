@@ -40,8 +40,9 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Its working finally, Kalaivanan</h2>
+			<h3>Hello Everyone</h3>
+			<h4>Today's date: <%= (new java.util.Date()).toLocaleString()%></h4>
 		</div>	
 	</div>
 
